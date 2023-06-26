@@ -1,6 +1,7 @@
-#TETRIS
+# Tetris
 
+This folder contain few files. Download the folder and run main file.  
 
-This folder contain 4 files.
-Just download and run the main file.
-Made with contribution of my friends.
+And play the game :).  
+
+Made with help of my friends.
