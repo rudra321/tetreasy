@@ -1,4 +1,4 @@
-# Tetris
+# Tetris Programming Language
 
 This folder contain few files. Download the folder and run main file.  
 
